@@ -12,3 +12,4 @@ customerEmail="bbb@gmail.com";
 customerNumber="888";
 
 console.table([customerID, customerName, customerEmail, customerNumber]);
+console.table([customerID, customerName, customerEmail, customerNumber]);
