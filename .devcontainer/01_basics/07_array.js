@@ -1,0 +1,18 @@
+const a=new Array(1, 2, 3, 4, 5);
+console.log(a);
+// a.push(6);
+// a.pop();
+// a.unshift(0);
+// a.shift();
+// console.log(a.includes(3));
+// console.log(a.indexOf(7));
+// console.log(typeof a.join());
+const b=a.slice(1, 3);
+console.log(b);
+console.log(a);
+const c=a.splice(1, 3);
+console.log(c);
+// const b=["asif ", "ali"];
+// console.log(b);
+// const c=[1, 2, 3, 4];
+// console.log(c.push(5));
