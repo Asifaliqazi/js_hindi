@@ -29,6 +29,36 @@ const myObject={
     rb: "ruby"
 };
 for (const key in myObject) {
-    console.log(`${key} , shortcut of ${myObject[key]}`);
+    // console.log(`${key} , shortcut of ${myObject[key]}`);
     
 }
+
+
+// const myarray=["rahul", "mahesh", "suresh"];
+// for(const arr of myarray){
+//     console.log(arr);
+// }
+
+// const map=new Map()
+// map.set("in", "india")
+// map.set("us", "united state of america")
+// map.set("ca", "china");
+// console.log(map);
+// for (const [key, value] of map) {
+//     console.log(key, "->", value );
+// }
+
+//  const newobj={
+//     mahesh:"deshmukh",
+//     rahul:"roy"
+//  }
+//  for (const key in newobj) {
+//      console.log(`${key} the sir name is ${newobj[key]}`);
+//  }
+
+
+// const myarray=["mahesh", "suresh"];
+// for(const key in myarray){
+//     console.log (myarray[key]);
+// }
+
